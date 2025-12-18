@@ -37,10 +37,6 @@ Examples include:
 
 ---
 
-## 📈 GitHub Stats
-![Bharanidharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharani-dev&show_icons=true&theme=radical)  
-
----
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/bharanidharan-r-b1562b299) | [GitHub](https://github.com/bharani-dev)
