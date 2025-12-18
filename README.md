@@ -1,4 +1,4 @@
-# Hi, I'm Bharanidharan 👋
+# Hi, I'm Bharanidharan 
 
 🎓 Electrical and Electronics Engineering Student  
 ⚡ Passionate about Embedded Systems, IoT, and Core EEE Applications  
