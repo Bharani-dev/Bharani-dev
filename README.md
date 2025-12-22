@@ -18,33 +18,24 @@ and interrupt-driven design.
 ## 🛠 Skills & Tools
 
 ### Programming & Firmware
-![C](https://img.shields.io/badge/C-Embedded-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-Basic-00599C?logo=cplusplus)
+![C](https://img.shields.io/badge/C-Embedded-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Basic-00599C?logo=cplusplus&logoColor=white)
 
-### Microcontrollers & Hardware
-![STM32](https://img.shields.io/badge/STM32-Bare--Metal-03234B?logo=stmicroelectronics)
-![Arduino](https://img.shields.io/badge/Arduino-Prototyping-00979D?logo=arduino)
-
-### Embedded Interfaces & Peripherals
-![UART](https://img.shields.io/badge/UART-Interrupt--Driven-lightgrey)
-![I2C](https://img.shields.io/badge/I2C-Register--Level-lightgrey)
-![ADC](https://img.shields.io/badge/ADC-Sampling-lightgrey)
-![DMA](https://img.shields.io/badge/DMA-Circular--Mode-lightgrey)
-![Timers](https://img.shields.io/badge/Timers-PWM%20%26%20Scheduling-lightgrey)
+### Microcontrollers & Platforms
+![STM32](https://img.shields.io/badge/STM32-Bare--Metal-03234B?logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Prototyping-00979D?logo=arduino&logoColor=white)
 
 ### Tools & Software
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-IDE-2f80ed)
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?logo=mathworks)
-![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-purple)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-7b2cbf)
 ![Vivado](https://img.shields.io/badge/Vivado-Basic-8A2BE2)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)
 
-### OS & Build Tools
+### OS & Build Environment
 ![Linux](https://img.shields.io/badge/Linux-Development%20Environment-FCC624?logo=linux&logoColor=black)
-![Makefile](https://img.shields.io/badge/Make-Build%20Tool-6D6D6D)
-
----
+![Make](https://img.shields.io/badge/Make-Build%20System-6c757d)
 
 ## 📂 Embedded Projects
 
