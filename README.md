@@ -85,4 +85,4 @@ state machines.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Bharani-dev  
-- LinkedIn: https://www.linkedin.com/in/bharanidharan-r-b1562b299  
+- LinkedIn: https://www.linkedin.com/in/bharanidharan-tech
