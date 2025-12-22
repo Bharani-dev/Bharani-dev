@@ -1,42 +1,104 @@
-# Hi, I'm Bharanidharan 
+<h1 align="center">Hi, I'm Bharanidharan 👋</h1>
 
-🎓 Electrical and Electronics Engineering Student  
-⚡ Passionate about Embedded Systems, IoT, and Core EEE Applications  
-🔧 Exploring Embedded C, STM32, and Hardware Development  
+<p align="center">
+  <b>EEE Undergraduate • Embedded Systems & Firmware Enthusiast</b>
+</p>
 
----
-
-## 🛠 Skills & Tools
-![C](https://img.shields.io/badge/-Embedded%20C-blue?style=flat-square&logo=c) 
-![STM32](https://img.shields.io/badge/-STM32-green?style=flat-square) 
-![Arduino](https://img.shields.io/badge/-Arduino-orange?style=flat-square&logo=arduino)
-![MATLAB](https://img.shields.io/badge/-MATLAB-yellow?style=flat-square&logo=MATLAB)
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Proteus](https://img.shields.io/badge/-Proteus-purple?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Approach-Bare--Metal-green" />
+  <img src="https://img.shields.io/badge/Domain-Core%20EEE-orange" />
+</p>
 
 ---
 
-## 💡 Areas of Interest
-- Embedded Systems & Microcontroller Programming  
-- IoT & Home Automation Projects  
-- Control Systems Applications  
-- Power Electronics & Core EEE Projects  
+## 🔍 About Me
+I am an Electrical and Electronics Engineering student passionate about
+**embedded systems and low-level firmware development**.
+
+I believe in learning by building real systems close to hardware,
+focusing on **register-level programming**, **peripheral interaction**,
+and **clean firmware design**.
 
 ---
 
-## 📂 Projects / Portfolio
-I am working on building projects to demonstrate my skills.  
-Examples include:
-- Embedded C programs using STM32 and Arduino  
-- IoT / Home Automation mini-projects  
-- Control Systems simulations using MATLAB / Simulink  
-- Power Systems calculation scripts and simulations  
+## 🚀 Embedded Projects Journey
 
-*(Project links will be added here as I create them.)*
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success" />
+  <img src="https://img.shields.io/badge/Style-Project--Driven-informational" />
+</p>
+
+### 🔹 ADC + DMA Sensor Sampler
+Continuous analog data acquisition using timer-triggered ADC with DMA
+in circular mode.  
+<p>
+  <img src="https://img.shields.io/badge/Level-Intermediate-blue" />
+  <img src="https://img.shields.io/badge/Type-Firmware-yellow" />
+</p>
+🔗 Repo: Coming soon
 
 ---
 
+### 🔹 UART Command Console
+Interrupt-driven serial command interface to control hardware like LEDs
+and PWM duty cycle.  
+<p>
+  <img src="https://img.shields.io/badge/Concept-Interrupts-purple" />
+  <img src="https://img.shields.io/badge/Design-Bare--Metal-green" />
+</p>
+🔗 Repo: Coming soon
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/bharanidharan-r-b1562b299) | [GitHub](https://github.com/bharani-dev)
+---
+
+### 🔹 PWM-Controlled DC Motor Driver
+Timer-based PWM generation to control DC motor speed using an external
+motor driver.  
+<p>
+  <img src="https://img.shields.io/badge/Application-Motor%20Control-red" />
+  <img src="https://img.shields.io/badge/Focus-Timers-orange" />
+</p>
+🔗 Repo: Coming soon
+
+---
+
+### 🔹 Bare-Metal I2C Driver
+Custom I2C master driver to communicate with temperature sensors
+(TMP102 / LM75).  
+<p>
+  <img src="https://img.shields.io/badge/Protocol-I2C-blueviolet" />
+  <img src="https://img.shields.io/badge/Depth-Register%20Level-success" />
+</p>
+🔗 Repo: Coming soon
+
+---
+
+### 🔹 Mini Task Scheduler
+Lightweight cooperative scheduler using SysTick and state machines for
+deterministic task execution.  
+<p>
+  <img src="https://img.shields.io/badge/Concept-Scheduling-lightgrey" />
+  <img src="https://img.shields.io/badge/Type-Firmware%20Architecture-yellowgreen" />
+</p>
+🔗 Repo: Coming soon
+
+---
+
+## 📘 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-STM32%20Internals-blue" />
+  <img src="https://img.shields.io/badge/Learning-Interrupt%20Design-green" />
+  <img src="https://img.shields.io/badge/Learning-RTOS%20Concepts-orange" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/Bharani-dev">
+    <img src="https://img.shields.io/badge/GitHub-Bharani--dev-black?logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+  </a>
+</p>
