@@ -1,88 +1,129 @@
-# Hi, I'm Bharanidharan
+# Bharanidharan R
 
 🎓 Electrical and Electronics Engineering Undergraduate  
-🔧 Embedded Systems & Firmware Enthusiast  
+🔬 VLSI | Digital Design | Embedded Systems  
 
 ---
 
 ## 🔍 About Me
-I am an Electrical and Electronics Engineering student interested in
-**embedded systems and low-level firmware development**.
 
-I focus on learning through **hands-on embedded projects**, working close to
-hardware using **bare-metal programming**, register-level peripheral control,
-and interrupt-driven design.
+Electrical and Electronics Engineering student interested in  
+**VLSI Design, RTL Development, and Embedded Systems**.
+
+Focused on building strong foundations in:
+
+- Digital IC Design
+- AMBA Protocols (AHB/APB)
+- RTL Architecture
+- Hardware Verification
+- Bare-Metal Embedded Systems
 
 ---
 
-## 🛠 Skills & Tools
+# 🛠 Skills & Tools
 
-### Programming & Firmware
-![C](https://img.shields.io/badge/C-Embedded-00599C?logo=c&logoColor=white)
+---
+
+## 🔹 Hardware Description Languages
+![Verilog](https://img.shields.io/badge/Verilog-RTL-8A2BE2)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Verification-6A5ACD)
+![C](https://img.shields.io/badge/C-System%20Programming-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Basic-00599C?logo=cplusplus&logoColor=white)
 
-### Microcontrollers & Platforms
-![STM32](https://img.shields.io/badge/STM32-Bare--Metal-03234B?logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-Prototyping-00979D?logo=arduino&logoColor=white)
+---
 
-### Tools & Software
+## 🔹 Digital Design Concepts
+- Combinational & Sequential Logic  
+- FSM Design  
+- Bus Arbitration  
+- Clock Domain Crossing (CDC Basics)  
+- Timing Concepts (Setup/Hold)  
+- Synchronous Design  
+
+---
+
+## 🔹 Tools & EDA
+![Icarus Verilog](https://img.shields.io/badge/Icarus-Verilog-blue)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveform%20Viewer-green)
+![Vivado](https://img.shields.io/badge/Xilinx-Vivado-red)
+![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-orange)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-IDE-2f80ed)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?logo=mathworks&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Simulation-7b2cbf)
-![Vivado](https://img.shields.io/badge/Vivado-Basic-8A2BE2)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)
 
-### OS & Build Environment
+---
+
+## 🔹 OS & Build Environment
 ![Linux](https://img.shields.io/badge/Linux-Development%20Environment-FCC624?logo=linux&logoColor=black)
 ![Make](https://img.shields.io/badge/Make-Build%20System-6c757d)
 
-## 📂 Embedded Projects
+---
 
-Some of the projects I am working on:
-
-### 🔹 ADC + DMA Sensor Sampler
-Continuous analog data acquisition using timer-triggered ADC and DMA
-(circular mode).  
-🔗 Repo: *Coming soon*
+# 📂 VLSI Projects
 
 ---
 
-### 🔹 UART Command Console
-Interrupt-driven serial command interface to control hardware
-(LED, PWM duty cycle, etc.).  
-🔗 Repo: *Coming soon*
+### 🔹 AHB to APB Bridge (RTL)
+- AMBA AHB-Lite to APB protocol conversion
+- FSM-based control logic
+- Address & data phase handling
+- Functional verification using testbench
 
 ---
 
-### 🔹 PWM-Controlled DC Motor Driver
-Timer-based PWM generation for DC motor speed control using an external
-motor driver.  
-🔗 Repo: *Coming soon*
+### 🔹 AHB Bus System (Master–Slave + Arbiter + Decoder)
+- Multi-master arbitration logic
+- Address decoder implementation
+- Priority-based bus grant mechanism
+- Modular RTL architecture
 
 ---
 
-### 🔹 Bare-Metal I2C Driver
-Custom I2C master driver to interface with temperature sensors
-(TMP102 / LM75).  
-🔗 Repo: *Coming soon*
+### 🔹 Asynchronous FIFO with SystemVerilog Verification
+- Dual clock domain FIFO
+- Gray code pointer synchronization
+- Full/Empty logic design
+- SystemVerilog testbench for functional verification
 
 ---
 
-### 🔹 Mini Task Scheduler
-Lightweight cooperative task scheduler implemented using SysTick and
-state machines.  
-🔗 Repo: *Coming soon*
+### 🔹 CAN Controller (RTL Implementation)
+- CAN frame transmission & reception
+- Bit timing logic
+- FSM-based controller design
+- Error detection mechanisms
+
+---
+
+# 🔌 Embedded Projects
+
+---
+
+### 🔹 PWM-Controlled DC Motor Drive
+- Timer-based PWM generation
+- Speed control using duty cycle variation
+- External motor driver interfacing
+
+---
+
+### 🔹 ADC + DMA Continuous Sampler
+- Timer-triggered ADC conversion
+- DMA circular buffer configuration
+- Interrupt-driven data handling
+- Low CPU utilization architecture
 
 ---
 
 ## 📘 Currently Working On
-- Register-level STM32 peripheral configuration  
-- Interrupt-driven firmware design  
-- Embedded system applications in EEE  
+- Advanced RTL Architecture Design  
+- AMBA Protocol Understanding  
+- Clock Domain Crossing Concepts  
+- GATE 2027 Preparation  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 - GitHub: https://github.com/Bharani-dev  
 - LinkedIn: https://www.linkedin.com/in/bharanidharan-tech
